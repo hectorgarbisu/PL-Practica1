@@ -1,0 +1,37 @@
+; hahaScript
+
+; Script (calcula y muestr fibonaccis)
+Ha ha 1 XDD n ah HA"0"; AH
+"0\n1"; cuac
+p1 aHa 0;
+p2 aHa 1;
+L
+O i aHa 1;
+O i a;
+O Ha ha n XDD i ah HA ROFL; AH
+O "\p1+\p2";
+O aux aHa p1;
+O p1 aHa p2;
+O p2 aHa aux aa p2;
+L
+
+; funcion sin args
+haha dame10 HA
+	"toma 10";
+	ahah 10;
+AH
+
+; funcion con args
+haha dameX x HA
+	"toma x";
+	ahah x;
+AH
+
+; función recursiva
+haha factorial num_input HA
+	Ha ha 1 XD num_input ah 
+	HA
+			ahah 1; si num_input<=1, el resultado es 1
+	AH
+	ahah num_input aaa ha factorial num_input hh 1 ah;	
+AH

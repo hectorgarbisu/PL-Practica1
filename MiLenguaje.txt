@@ -1,0 +1,35 @@
+Definicion de mi lenguaje
+Hahascript (javascript stupid mock)
+Imperativo
+Delimitadores:
+" " (espacio) para separar palabras u otros objetos
+"\n" (salto de linea) para finalizar sentencia
+"ha" inicio de bloque (equivalente a "(" o "{")
+"ah" inicio de bloque 
+hahaha ha 3 h 1
+debe admitir recursividad
+
+if(n<1) System.out.println("0");
+System.out.println("0\n1");
+int p1 = 0;
+int p2 = 1;
+int aux;
+for (int i = 0; i < n; i++) {
+	System.out.println(p1+p2);
+	aux = p1;
+	p1=p2;
+	p2=aux+p2;
+}
+
+	
+Ha ha n < 1 ah "0"
+"0\n1"
+p1 aHa 0
+p2 aHa 1
+l ha i 1 n ah ha
+o "\p1+\p2"
+o aux aHa p1
+o p1 aHa p2
+o p2 aHa aux a p2
+ah
+l
